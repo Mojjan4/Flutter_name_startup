@@ -1,6 +1,8 @@
 # startup_namer
 
-Startup Namer
+- Trying to learn Dart and flutter. 
+- First project with Dart. 
+- Followed the instruction below ↓! 
 
 ## Getting Started
 
